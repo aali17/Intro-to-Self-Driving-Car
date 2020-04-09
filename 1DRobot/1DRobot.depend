@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586430907 source:c:\users\azam\documents\cpp_projects\1drobot\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<string.h>
+	<numeric>
+
