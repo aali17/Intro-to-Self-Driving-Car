@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586505921 source:c:\users\azam\documents\cpp_projects\gaussian\gaussian.cpp
+	<math.h>
+
+1586505873 source:c:\users\azam\documents\cpp_projects\gaussian\main.cpp
+	<iostream>
+
